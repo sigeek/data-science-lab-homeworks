@@ -1,2 +1,2 @@
-# data-science-lab-solutions
-Lab solution Data Science Lab, Politecnico di Torino
+# Data science lab solutions
+Lab solution of the course Data Science Lab @ Politecnico di Torino
