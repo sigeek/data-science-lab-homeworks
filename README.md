@@ -1,2 +1,2 @@
 # Data science lab solutions
-Lab solution of the course Data Science Lab @ Politecnico di Torino
+This repository contains all the solutions of the lab sessions of the course Data Science Lab @ Politecnico di Torino
